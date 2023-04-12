@@ -1,0 +1,15 @@
+/Users/Giang8692/Documents/CSharp/Mang_BT1/bin/Debug/net7.0/Mang_BT1
+/Users/Giang8692/Documents/CSharp/Mang_BT1/bin/Debug/net7.0/Mang_BT1.deps.json
+/Users/Giang8692/Documents/CSharp/Mang_BT1/bin/Debug/net7.0/Mang_BT1.runtimeconfig.json
+/Users/Giang8692/Documents/CSharp/Mang_BT1/bin/Debug/net7.0/Mang_BT1.dll
+/Users/Giang8692/Documents/CSharp/Mang_BT1/bin/Debug/net7.0/Mang_BT1.pdb
+/Users/Giang8692/Documents/CSharp/Mang_BT1/obj/Debug/net7.0/Mang_BT1.csproj.AssemblyReference.cache
+/Users/Giang8692/Documents/CSharp/Mang_BT1/obj/Debug/net7.0/Mang_BT1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Giang8692/Documents/CSharp/Mang_BT1/obj/Debug/net7.0/Mang_BT1.AssemblyInfoInputs.cache
+/Users/Giang8692/Documents/CSharp/Mang_BT1/obj/Debug/net7.0/Mang_BT1.AssemblyInfo.cs
+/Users/Giang8692/Documents/CSharp/Mang_BT1/obj/Debug/net7.0/Mang_BT1.csproj.CoreCompileInputs.cache
+/Users/Giang8692/Documents/CSharp/Mang_BT1/obj/Debug/net7.0/Mang_BT1.dll
+/Users/Giang8692/Documents/CSharp/Mang_BT1/obj/Debug/net7.0/refint/Mang_BT1.dll
+/Users/Giang8692/Documents/CSharp/Mang_BT1/obj/Debug/net7.0/Mang_BT1.pdb
+/Users/Giang8692/Documents/CSharp/Mang_BT1/obj/Debug/net7.0/Mang_BT1.genruntimeconfig.cache
+/Users/Giang8692/Documents/CSharp/Mang_BT1/obj/Debug/net7.0/ref/Mang_BT1.dll
